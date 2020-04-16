@@ -1,4 +1,4 @@
-# v-nexter-real-estate
+# nexter-real-estate
 
 ## Project setup
 ```
