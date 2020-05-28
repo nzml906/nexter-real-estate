@@ -1,4 +1,4 @@
-# v-profile
+# nexter-real-estate
 
 ## Project setup
 ```
