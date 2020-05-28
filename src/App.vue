@@ -5,6 +5,7 @@
         <button class="nav-btn"></button>
       </div>
 
+
       <header class="header">
         <img src="img/logo.png" alt="Nexter logo" class="header__logo" />
         <h3 class="heading-3">Your own home</h3>
